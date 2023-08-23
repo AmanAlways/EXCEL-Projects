@@ -1,0 +1,7 @@
+Data Analytics and Visualization part :
+=======================================
+Download the data from the given named Financial Report. And build a dashboard using Excel. Preprocess data if necessary.
+a) Add necessary Filter/ Control in Dashboard (i.e.: date range, Country, Segment, Products etc.)
+b) Show Monthly Sales Trend
+c) Show month-to-month Growth %
+d) Show the sales and profit in different charts (i.e., by Country, products, segment etc.)
